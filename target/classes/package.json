@@ -1,0 +1,7 @@
+{
+  "name": "resources",
+  "version": "0.0.1",
+  "dependencies": {
+    "sqlite3_db_path" : "jdbc:sqlite:C:\\Users\\jafar.j\\Documents\\astdb.sqlite3"
+  }
+}
